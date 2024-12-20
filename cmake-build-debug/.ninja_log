@@ -1,0 +1,9 @@
+# ninja log v6
+19	109	7563969737963813	CMakeFiles/untitled.dir/main.c.obj	45dda8dfdb836219
+2358	2499	7563963006515189	CMakeFiles/untitled.dir/lengths.c.obj	d8641bb1b1f03592
+10	125	7560688190959918	CMakeFiles/untitled.dir/frequency.c.obj	d3207f80b8a53595
+20	2362	7563962983132378	CMakeFiles/untitled.dir/binomial_table.c.obj	c58d1c6fd51372b3
+109	1394	7563985508350198	build.ninja	9e6cf6cebd858676
+109	262	7563969738871391	untitled.exe	68178b43655b2650
+17	2357	7563962983112693	CMakeFiles/untitled.dir/binomial.c.obj	9d1f373e50635f6
+22	2362	7563962983162311	CMakeFiles/untitled.dir/runs.c.obj	34249e2e0b70d899
