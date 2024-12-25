@@ -18,3 +18,4 @@ set(SOURCES
 )
 
 add_executable(untitled ${SOURCES})
+target_link_libraries(untitled m)
